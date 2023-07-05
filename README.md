@@ -1,2 +1,2 @@
-# astropaws
-game
+# Astropaws
+game for geniuses
