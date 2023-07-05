@@ -1,4 +1,3 @@
-#Создай собственный Шутер!
 from random import *
 from pygame import *
 win_height = 700
